@@ -1,5 +1,6 @@
-# angular-meta
+# angular-re-meta
 Adding Meta tags using angular-meta directive
+
 
 # Author: Jason Pescione <jay@moonfuse.co>
 
@@ -12,7 +13,8 @@ Adding Meta tags using angular-meta directive
   # Angular Meta
 
 A title tag & meta description implementation for Angular JS apps.
-
+# Bower:
+  bower install angular-re-meta
 
 ## Installation
 1. Add the *meta* service file, */app/scripts/services/meta.js*, to your project.
