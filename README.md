@@ -29,9 +29,6 @@ A title tag & meta description implementation for Angular JS apps.
 
 ## Usage
 
-### Demo
-[See what I am talking about.](http://moonfuse.github.io/angular-meta/#/)
-
 ### Configuring routes
 The *MetaProvider* API was built to mimic the *$routeProvider* API.
 
@@ -72,6 +69,3 @@ Configuring your routes in the config block is recommended, but if you wish, you
 
 
 ## Appendix
-
-### Maintenance
-If you encounter any bugs, or hopefully, have ways to improve this module, fork and pull, or just shoot me an email at jay@moonfuse.co.
