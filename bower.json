@@ -1,4 +1,16 @@
 {
   "name": "angular-meta-redist",
-  "version": "0.2.0"
+  "version": "0.2.0",
+  "homepage": "https://github.com/ankuanky/angular-meta",
+  "authors": [
+    "Ankit Pundhir <anku.ankit11@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
