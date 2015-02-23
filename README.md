@@ -4,7 +4,7 @@ Adding Meta tags using angular-meta directive
 
 # Author: Jason Pescione <jay@moonfuse.co>
 
-# Redistributed By: ankuanky
+# Redistributed By: Ankit Pundhir
   There seems to be an issue pulling this repository originally placed at http://moonfuse.github.io/angular-meta/#/
   So, redisributing here.
   
