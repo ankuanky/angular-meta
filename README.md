@@ -1,5 +1,5 @@
 # angular-re-meta
-Adding Meta tags using angular-meta directive
+Adding Meta tags using *meta* module.
 
 
 # Author: Jason Pescione <jay@moonfuse.co>
