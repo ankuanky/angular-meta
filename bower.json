@@ -1,10 +1,12 @@
 {
-  "name": "angular-meta-redist",
+  "name": "angular-re-meta",
+  "main": "angular-meta.js",
   "version": "0.2.0",
   "homepage": "https://github.com/ankuanky/angular-meta",
   "authors": [
-    "Ankit Pundhir <anku.ankit11@gmail.com>"
+    "Jason Pescione <jay@moonfuse.co>"
   ],
+  "description": "Redistributing angular-meta to angular-re-meta",
   "license": "MIT",
   "ignore": [
     "**/.*",
